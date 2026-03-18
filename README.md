@@ -14,3 +14,5 @@ UC4: Display "Hello" with Multiple Command-Line Arguments or Default Message
 UC5: Display "Hello" with Multiple Command-Line Arguments using Enhanced For Loop or Default Message
 
 UC6: Display "Hello" with Multiple Command-Line Arguments using substring to Remove Trailing Delimiter
+
+UC7: Display "Hello" with Multiple Command-Line Arguments using String.join() Method or Default Message
